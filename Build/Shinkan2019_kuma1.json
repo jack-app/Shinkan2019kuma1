@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Demonstratin",
+"dataUrl": "Shinkan2019_kuma1.data.unityweb",
+"asmCodeUrl": "Shinkan2019_kuma1.asm.code.unityweb",
+"asmMemoryUrl": "Shinkan2019_kuma1.asm.memory.unityweb",
+"asmFrameworkUrl": "Shinkan2019_kuma1.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
